@@ -1,0 +1,16 @@
+/* Navbar specific styles */
+nav {
+    background-color: #eb2005;
+    padding: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  nav ul li {
+    color: rgb(216, 189, 32);
+    cursor: pointer;
+  }

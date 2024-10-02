@@ -1,0 +1,50 @@
+/* Global styles for the entire app */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+nav {
+  background-color: #0b7cec;
+  color: white;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li {
+  color: white;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #0b7cec;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #e9ecef;
+  border-radius: 4px;
+}
+
+footer {
+  background-color: #0b7cec;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
